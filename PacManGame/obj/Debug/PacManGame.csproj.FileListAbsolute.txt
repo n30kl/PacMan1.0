@@ -1,0 +1,40 @@
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\bin\Debug\PacManGame.exe.config
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\bin\Debug\PacManGame.exe
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\bin\Debug\PacManGame.pdb
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\obj\Debug\PacManGame.csprojAssemblyReference.cache
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\obj\Debug\PacManGame.Form1.resources
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\obj\Debug\PacManGame.Properties.Resources.resources
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.GenerateResource.cache
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\obj\Debug\PacManGame.exe
+C:\Users\38095\Desktop\ПИИС\PacManGame\PacManGame\obj\Debug\PacManGame.pdb
+C:\Users\38095\Desktop\PacManGame\bin\Debug\PacManGame.exe.config
+C:\Users\38095\Desktop\PacManGame\bin\Debug\PacManGame.exe
+C:\Users\38095\Desktop\PacManGame\bin\Debug\PacManGame.pdb
+C:\Users\38095\Desktop\PacManGame\obj\Debug\PacManGame.csprojAssemblyReference.cache
+C:\Users\38095\Desktop\PacManGame\obj\Debug\PacManGame.Form1.resources
+C:\Users\38095\Desktop\PacManGame\obj\Debug\PacManGame.Properties.Resources.resources
+C:\Users\38095\Desktop\PacManGame\obj\Debug\PacManGame.csproj.GenerateResource.cache
+C:\Users\38095\Desktop\PacManGame\obj\Debug\PacManGame.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\PacManGame\obj\Debug\PacManGame.exe
+C:\Users\38095\Desktop\PacManGame\obj\Debug\PacManGame.pdb
+C:\Users\38095\Desktop\ПИИС\PacManGame\bin\Debug\PacManGame.exe.config
+C:\Users\38095\Desktop\ПИИС\PacManGame\bin\Debug\PacManGame.exe
+C:\Users\38095\Desktop\ПИИС\PacManGame\bin\Debug\PacManGame.pdb
+C:\Users\38095\Desktop\ПИИС\PacManGame\obj\Debug\PacManGame.csprojAssemblyReference.cache
+C:\Users\38095\Desktop\ПИИС\PacManGame\obj\Debug\PacManGame.Form1.resources
+C:\Users\38095\Desktop\ПИИС\PacManGame\obj\Debug\PacManGame.Properties.Resources.resources
+C:\Users\38095\Desktop\ПИИС\PacManGame\obj\Debug\PacManGame.csproj.GenerateResource.cache
+C:\Users\38095\Desktop\ПИИС\PacManGame\obj\Debug\PacManGame.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\ПИИС\PacManGame\obj\Debug\PacManGame.exe
+C:\Users\38095\Desktop\ПИИС\PacManGame\obj\Debug\PacManGame.pdb
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\bin\Debug\PacManGame.exe.config
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\bin\Debug\PacManGame.exe
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\bin\Debug\PacManGame.pdb
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\obj\Debug\PacManGame.csprojAssemblyReference.cache
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\obj\Debug\PacManGame.Form1.resources
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\obj\Debug\PacManGame.Properties.Resources.resources
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\obj\Debug\PacManGame.csproj.GenerateResource.cache
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\obj\Debug\PacManGame.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\obj\Debug\PacManGame.exe
+C:\Users\38095\Desktop\ПИИС\Lab 1\PacManGame\obj\Debug\PacManGame.pdb
